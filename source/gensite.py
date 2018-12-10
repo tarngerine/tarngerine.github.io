@@ -1,5 +1,4 @@
 import os
-import markdown
 import misaka
 import re
 import yaml
