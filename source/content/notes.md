@@ -12,13 +12,11 @@ template: list
 - [Jane Elliot on Race](https://www.facebook.com/Taino.XX/videos/951479971586394/)
 - [Anecdote from Joy Angela DeGruy](https://www.facebook.com/Upworthy/videos/1141203362587187/)
 - [Two Asian-Americas](https://www.newyorker.com/books/page-turner/the-two-asian-americas)
-- ![](notes/getting excited for ignorance.png)
 - [The Smug style in American Liberalism](https://www.vox.com/2016/4/21/11451378/smug-american-liberalism)
 - [Hamming on Software](https://www.youtube.com/watch?v=2e5_Z6oZ0rM)
-  - "Write psychologically, not logically"  
-  - "Don't be cute"  
-  - The problem w programming is humans, not computers  
-  - Programming is more like novel writing than it is engineering (i.e. phsyical engineering) bc theres no actual constraints besides how the programmer things. engineers run up to the same physical constraints (e.g. russian vs us space programs basically ended up doing the same things, whereas two programmers solving the same prompt write v diff programs)
+  - Write psychologically, not logically.
+  - The problem with programming is humans, not computers.
+  - Programming is more like novel writing than it is engineering (i.e. phsyical engineering) bc theres no actual constraints besides how the programmer thinks. Engineers run up to the same physical constraints (e.g. Russian and US space programs basically ended up doing the same things, whereas two programmers solving the same prompt write different programs).
 - [Sick Systems: How to Keep Someone With You Forever](https://www.issendai.com/psychology/sick-systems.html)
   - A sick system has four basic rules:
     - Rule 1: Keep them too busy to think.
@@ -38,7 +36,7 @@ template: list
   - Work becomes divided into two opposing classes: that which is lovable (creative, intellectual, socially prestigious) and that which is not (repetitive, unintellectual, undistinguished).
 - [Cixin Liu - The Dark Forest](https://www.amazon.com/dp/B00R13OYU6)
 - [Logistics, Counterlogistics, and the Communist Prospect](https://endnotes.org.uk/issues/3/en/jasper-bernes-logistics-counterlogistics-and-the-communist-prospect)
-  - Quote from The Hidden Injuries of Class — Richard Sennett: "There is an interesting paradox here... the more transparent and “user-friendly” the computerised processes are, the more opaque the total process they control becomes."
+  - "There is an interesting paradox here... the more transparent and “user-friendly” the computerised processes are, the more opaque the total process they control becomes." — The Hidden Injuries of Class by Richard Sennett
 - [Tell Me It's Going to be OK](https://thebaffler.com/salvos/tell-me-its-going-to-be-ok-tokumitsu)
   - America’s vast therapeutic brain trust has steadily eradicated the language of solidarity and class consciousness, honed through collective struggle, and replaced it with exhortations to “do what you love” and “live your best life.” Both aphorisms imply that what we’re currently doing is not enough.
   - We are denied the ability to seek comfort from colleagues, neighbors, or—heaven forbid—comrades, because neoliberalism has turned them into our competition.
