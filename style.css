@@ -1,0 +1,73 @@
+body {
+  padding: 10px 20px 100px 2.5em;
+  color: #111;
+  position: relative;
+}
+
+  @media (min-width: 640px) {
+    body {
+      font-size: 1.5em;
+    }
+  }
+
+a {
+  color: #111;
+  text-decoration: underline;
+}
+
+  a:hover {
+    text-decoration: none;
+  }
+
+h1 {
+  font-size: 1.5em;
+  -webkit-margin-before: .83em;
+  -webkit-margin-after: .83em;
+}
+
+h2 {
+  font-size: 1.17em;
+  -webkit-margin-before:  1em;
+  -webkit-margin-after:  0;
+  font-weight: normal;
+}
+
+h3 {
+  font-weight: normal;
+}
+
+ul {
+  font-size: 1.17em;
+  -webkit-margin-before:  .5em;
+  -webkit-margin-after:  0;
+  padding-left: 0;
+}
+
+  ul.past {
+    text-decoration: line-through;
+  }
+
+li {
+  color: #666;
+  list-style-type: cjk-heavenly-stem;
+  margin-bottom: .2em;
+}
+
+.seal {
+  color: #d55;
+  border: 2px solid #d55;
+  position: absolute;
+  padding: 8px 6px;
+  border-radius: 30px;
+  line-height: 1.2em;
+  font-family: "Adobe Kaiti Std", "STHeitiTC-Medium", "DFKai-SB", "KaiTi", "SimKai";
+  right: 12px;
+  bottom: 12px;
+}
+
+img.me {
+  width: 320px;
+  height: auto;
+  max-width: 100%;
+  margin-bottom: -1em;
+}
