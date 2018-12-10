@@ -28,7 +28,7 @@ h1 {
 
 h2 {
   font-size: 1em;
-  margin-top:  1.5em;
+  margin-top:  1.25em;
   margin-bottom: .67em;
   font-weight: normal;
 }
@@ -39,10 +39,6 @@ ul, ol {
   margin-bottom:  0;
   padding-left: 0;
 }
-
-  ul.past {
-    text-decoration: line-through;
-  }
 
   ul ul {
     margin-top: .5em;
