@@ -1,12 +1,12 @@
 body {
-  padding: 10px 20px 100px 2.5em;
+  padding: .67em 2em 6em 2.5em;
   color: #111;
   position: relative;
 }
 
   @media (min-width: 640px) {
     body {
-      font-size: 1.7em;
+      font-size: 1.67em;
     }
   }
 
@@ -28,11 +28,7 @@ h1 {
 h2 {
   font-size: 1em;
   margin-top:  1.5em;
-  margin-bottom:  .6em;
-  font-weight: normal;
-}
-
-h3 {
+  margin-bottom: .67em;
   font-weight: normal;
 }
 
@@ -63,19 +59,20 @@ li {
 
 .seal {
   color: #d55;
-  border: 2px solid #d55;
+  border: .1em solid #d55;
   position: absolute;
-  padding: 8px 6px;
-  border-radius: 30px;
-  line-height: 1.2em;
+  padding: .33em .25em .33em;
+  border-radius: 10em;
+  line-height: 1.25em;
+  font-size: 1.167em;
   font-family: "Adobe Kaiti Std", "STHeitiTC-Medium", "DFKai-SB", "KaiTi", "SimKai";
-  right: 12px;
-  bottom: 12px;
+  right: .5em;
+  bottom: .5em;
 }
 
 img.me {
-  width: 320px;
+  width: 12em;
   height: auto;
   max-width: 100%;
-  margin-bottom: -1em;
+  margin-bottom: -.83em;
 }
