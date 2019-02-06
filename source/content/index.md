@@ -16,6 +16,7 @@ template: index
 ## I now
 
 1. am looking for a remote product/design/engineering role in the US ~ [email me!](mailto:julius@tarng.com)
+1. build tools like [Tokimeki Unfollow](https://tokimeki-unfollow.glitch.me) on [Glitch](https://glitch.com/@tarngerine) and [Github](https://github.com/tarngerine)
 1. draw on [Instagram](https://instagram.com/tarngerine)
 1. make [video games](https://tarngerine.itch.io) for game jams
 1. watch lots of [anime](https://myanimelist.net/profile/tarngerine/)
