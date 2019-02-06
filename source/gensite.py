@@ -9,6 +9,10 @@ def main():
   for f in os.listdir('content'):
     p = os.path.join('content', f)
 
+    # temporary, todo: recursive directory
+    if '.md' not in p:
+       continue
+
     with open(p, 'r', encoding='utf-8') as file:
       s = file.read()
 

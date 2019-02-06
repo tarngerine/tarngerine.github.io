@@ -15,8 +15,8 @@ template: index
 
 ## I now
 
-1. อยู่ที่กรุงเทพ / am taking a break in Bangkok
-1. draw daily on [Instagram](https://instagram.com/tarngerine)
+1. am looking for a remote product/design/engineering role in the US ~ [email me!](mailto:julius@tarng.com)
+1. draw on [Instagram](https://instagram.com/tarngerine)
 1. make [video games](https://tarngerine.itch.io) for game jams
 1. watch lots of [anime](https://myanimelist.net/profile/tarngerine/)
 1. play too much [Overwatch](https://www.overbuff.com/players/psn/jarngerine?mode=competitive)
