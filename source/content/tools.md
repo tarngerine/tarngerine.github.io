@@ -2,17 +2,26 @@
 ## A guide for thinking about building (or not) a team to improve workflows.
 
 ### Why should I listen to you?
-I started, grew, lead a team of designers and engineers who revamped the workflow of 600+ designers and thousands of their cross-functional peers. Among other successes, we saved each designer an average of 10+ hours of work a week, !!!!!SOMETHING ELSE!!!!!!!!!!!!!!!!!!!!!!!!!, and used an integrated toolchain to enforce design system adoption for Facebook, Messenger, Instagram, Whatsapp, and Oculus.
+I started, grew, lead a team of designers and engineers who revamped the workflow of 600+ designers and thousands of their cross-functional peers. Among other successes, we saved each designer an average of 10+ hours of work a week and used an integrated toolchain to drive design system adoption for Facebook, Messenger, Instagram, Whatsapp, and more.
 
-### What is this guide going to cover?
+### What is this going to cover?
 I will not cover why it's important to invest in design tooling. I'm assuming you're already convinced that you need to invest in improving your team's own workflow. I'm not going to cover specific things you should build, since every team is unique in their workflows and problems, and there's no way I'll be able to identify broad categories without being overly broad. I'm also not going to cover or compare specific design tools that are on the market, as tools will come and go.
 
-Instead, I want to cover some key things I learned that you may not have thought about yet. For example: What methods can you utilize besides building software to improve workflows? How do you decide whether to build something in-house or use a 3rd party tool? How do you convince management to allocate resources for this work? How do you balance time supporting your users vs. developing new tools? How do you scale your work as your team and company grows?
+Instead, I want to cover some key things I learned that you may not have thought about yet:
+
+- Resist the urge to build software — look at non-coding methods to improve workflows first
+- Show the value you're providing to management to get resources
+- Spend time helping your users — that built up intuition from diving deep will make deciding what to build easier
+- Startups come and go, carefully consider the likelihood of your company outlasting the latest shiny tool before adopting it
+- Form partnerships with key teams across your company to drive adoption
+- Identify important company initiatives you can focus your work to support
+- There's probably more, but I don't remember!!!
 
 This is a personal recap of sorts of the unique things I learned during my time working on tools. I hope it's helpful!
-- Julius
 
-+++
+— Julius
+
+---
 
 # What is design tooling?
 > To a hammer, everything looks like a nail. One of the top pitfalls anyone working on tooling will be to think of a tool-based solution for every problem they see.
@@ -25,11 +34,21 @@ Yes, this is an "everything is design [tooling]!" trope, but I think it's import
 
 ---
 
-## Do I need to code to make design tooling?
-No! There is a wide array of initiatives and opportunities you can take to improve designer workflow without committing a single line of code. You can define new processes that are more efficient, or host classes and write tutorials on pro-tips with the existing tools you use, create useful shared resources, or even set up a pipeline to outsource repetitive work. You can investigate the latest tooling, and make recommendations on which ones you think the team should adopt, evangelizing and building a community.]
+### Do I need to code to make design tooling?
+No!!! There is a wide array of initiatives and opportunities you can take to improve designer workflow without committing a single line of code. You can define new processes that are more efficient, or host classes and write tutorials on pro-tips with the existing tools you use, create useful shared resources, or even set up a pipeline to outsource repetitive work. You can investigate the latest tooling, and make recommendations on which ones you think the team should adopt, evangelizing and building a community.
+
+---
+
+---
+
+# ***Everything below is draft/WIP***
+
+---
+
+---
 
 ### Programs vs Software
-A lot of times in resource-constrained teams, the best way to do something is to do it by hand. You don't need to make software for every thing you need. For example, if your team hasn't created proper processes for things
+A lot of times in resource-constrained teams, the best way to do something is to do it by hand. You don't need to make software for every thing you need. For example, if your team hasn't created proper processes for things...?
 
 A program that's done by hand can eventually become something fully automated
 
@@ -68,27 +87,30 @@ Once you've made the decision to build your
 
 ---
 
-(How to frame, negatively like top 10 pitfalls? OR just X things to think about)
 Human-scale
+
 - Education and training [TOP]
 - Customer support (your #1 goal) [TOP]
 - Programs vs tools [TOP]
-Analytics,
 - Showing your impact to management (necessary to do your job) [2ND]
-~~- Using analytics to guide decisions~~
+
 Building
+
 - To build or not to build (NIH syndrome) [TOP]
 - Deployment and buy-in from the team, investing in your own ecosystem [TOP]
-~~- MVP debt~~
-~~- Outsourcing~~
+- ~MVP debt~
+- ~Outsourcing~
+
 Strategy
+
 - Pairing organizational initiatives with tooling (related to showing your impact to management) [TOP]
-- Managing risk and balancing progress (related to NIH)
-~~- How to prioritize cool vs necessary, big bets vs low hanging fruit~~
-~~- Who to hire~~
 - Tooling as a method of control and philosophy enforcement [2ND]
+- Managing risk and balancing progress (related to NIH)
+- ~How to prioritize cool vs necessary, big bets vs low hanging fruit~
+- ~Who to hire~
 
 Areas of unique opportunities for in-house built tooling [2ND]
+
 - Handoff
 - Source of truth
 - Education and training
@@ -98,6 +120,7 @@ Areas of unique opportunities for in-house built tooling [2ND]
 - Machine learning and automation
 
 Prerequisites
+
 - This tool or that tool?
 - Should designers code?
 - Product design's seat at the table

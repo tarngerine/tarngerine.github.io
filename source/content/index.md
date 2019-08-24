@@ -21,3 +21,4 @@ template: index
 1. watch lots of [anime](https://myanimelist.net/profile/tarngerine/)
 1. play too much [Overwatch](https://www.overbuff.com/players/psn/jarngerine?mode=competitive)
 1. try to [learn stuff](notes.html)
+1. am building out a platform at Webflow
