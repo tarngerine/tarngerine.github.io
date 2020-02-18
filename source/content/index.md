@@ -16,8 +16,8 @@ template: index
 
 ## I now
 
-1. am shaping new initiatives at [Webflow](https://webflow.com) as Principal Product Designer
-1. retweet good cool fun stuff on [Twitter](https://twitter.com/tarngerine)
+1. am shaping new initiatives at [Webflow](https://webflow.com) as Principal Product Designer, based out of Dallas
+1. retweet good cool fun stuff on [Twitter](https://twitter.com/tarngerine) (say hi!)
 1. build tools on [Github](https://github.com/tarngerine) and [Glitch](https://glitch.com/@tarngerine)
 1. draw on [Instagram](https://instagram.com/tarngerine)
 1. make [video games](https://tarngerine.itch.io) for game jams
