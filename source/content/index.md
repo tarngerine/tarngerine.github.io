@@ -13,15 +13,14 @@ template: index
 1. hacked on [virtual reality](https://medium.com/facebook-design/a-month-designing-in-vr-62474aef1f1c) and photographed [a bunch of hands](https://medium.com/facebook-design/photographing-diverse-hands-at-facebook-3229ea76f94)
 1. developed [tooling and infrastructure](https://twitter.com/tarngerine/status/1108038641819893760) to support the workflows of over 600 product designers and thousands of their peers at Facebook, Instagram, Oculus, and WhatsApp
 1. built a tool for you to [konmari your Twitter follows](https://www.theverge.com/2019/2/5/18212228/twitter-tokimeki-spark-joy-marie-kondo-konmari)
+1. scaled the design team and shaped new accessibility and "no code" initiatives at [Webflow](https://webflow.com)
 
 ## I now
-
-1. am shaping new initiatives at [Webflow](https://webflow.com) as Principal Product Designer, based out of Dallas
+1. am open to collaborations~ recently contributed to [MakeSpace](https://make.space.fun)
+1. reconnecting with aesthetics and code at the [School for Poetic Computation](https://sfpc.io)
+1. am mentoring part-time at [Upperstudy](https://upperstudy.com)
 1. retweet good cool fun stuff on [Twitter](https://twitter.com/tarngerine) (say hi!)
-1. build tools on [Github](https://github.com/tarngerine) and [Glitch](https://glitch.com/@tarngerine)
-1. draw on [Instagram](https://instagram.com/tarngerine)
-1. make [video games](https://tarngerine.itch.io) for game jams
+1. build [tools](https://github.com/tarngerine) and make [video games](https://tarngerine.itch.io)
 1. watch lots of [anime](https://myanimelist.net/profile/tarngerine/)
 1. hide out at the library, reading [books](http://goodreads.com/tarngerine)
-1. play too much [Overwatch](https://www.overbuff.com/players/psn/jarngerine?mode=competitive)
 1. try to [learn stuff](notes.html)
