@@ -24,7 +24,7 @@ def genFromDirectory(root='content', dest='../'):
       # parse frontmatter: ---key:value---\n
       res = re.search('^(---)([\s\S]*)(---)\n([\s\S]*$)', s)
       if res:
-        meta = yaml.load(res.group(2))
+        meta = yaml.load(res.group(2), Loader=yaml.FullLoader)
         for k in meta:
           d[k] = meta[k]
 

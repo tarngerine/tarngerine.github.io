@@ -1,7 +1,7 @@
 ---
 title: Julius Tarng — Design & Stuff
 description: A short Web Page about Julius on the Internet
-image: julius.gif
+image: avvy.png
 url: https://tarng.com
 template: index
 ---
@@ -11,14 +11,14 @@ template: index
 1. designed objects and interfaces at Smart Design like [this OXO spatula](https://www.amazon.com/gp/product/B00A2KD8LQ)
 1. explored community building and online discourse systems in [Branch](https://www.theverge.com/2012/10/15/3490670/branch-redesign), [Potluck](https://www.theverge.com/2013/11/21/5129772/potluck-2-messaging-app-for-the-news) and [Rooms](https://newsroom.fb.com/news/2014/10/introducing-rooms/)
 1. hacked on [virtual reality](https://medium.com/facebook-design/a-month-designing-in-vr-62474aef1f1c) and photographed [a bunch of hands](https://medium.com/facebook-design/photographing-diverse-hands-at-facebook-3229ea76f94)
-1. developed [tooling and infrastructure](https://twitter.com/tarngerine/status/1108038641819893760) to support the workflows of over 600 product designers and thousands of their peers at Facebook, Instagram, Oculus, and WhatsApp
+1. led the [design tooling and infrastructure](https://twitter.com/tarngerine/status/1108038641819893760) team to support over 600 product designers and their peers at Facebook, Instagram, Oculus, and WhatsApp
 1. built a tool for you to [konmari your Twitter follows](https://www.theverge.com/2019/2/5/18212228/twitter-tokimeki-spark-joy-marie-kondo-konmari)
 1. scaled the design team and shaped new accessibility and "no code" initiatives at [Webflow](https://webflow.com)
+1. mentored up-and-coming designers at [Upperstudy](https://upperstudy.com)
 
 ## I now
-1. am open to collaborations~ recently contributed to [MakeSpace](https://make.space.fun)
-1. reconnecting with aesthetics and code at the [School for Poetic Computation](https://sfpc.io)
-1. am mentoring part-time at [Upperstudy](https://upperstudy.com)
+1. am consulting part-time at various startups for product design, design prototyping, mentoring, or advising — email julius at tarng dot com for inquiries (available fall 2020)
+1. am working on [MakeSpace](https://make.space.fun)
 1. retweet good cool fun stuff on [Twitter](https://twitter.com/tarngerine) (say hi!)
 1. build [tools](https://github.com/tarngerine) and make [video games](https://tarngerine.itch.io)
 1. watch lots of [anime](https://myanimelist.net/profile/tarngerine/)
