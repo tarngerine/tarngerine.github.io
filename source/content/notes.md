@@ -4,8 +4,8 @@ description: Partial list of things that I've seen that have changed the way I'v
 template: list
 ---
 
-- [Mills Baker - Losing our seat at the table](https://mokriya.quora.com/Designer-Duds-Losing-Our-Seat-at-the-Table?srid=h1hP)
-- [Nate Silver - Signal and the Noise](https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087)
+- [Mills Baker - Losing our seat at the table](https://mokriya.quora.com/Designer-Duds-Losing-Our-Seat-at-the-Table)
+- [Nate Silver - Signal and the Noise](https://bookshop.org/books/the-signal-and-the-noise-why-so-many-predictions-fail-but-some-don-t-9780143125082/9780143125082)
 - [Douglas Englebart - Improving our Ability to Improve](https://dougengelbart.org/pubs/augment-133320.html)
 - [Intervention (Video)](https://www.facebook.com/100005039869392/videos/441723146005677/)
 - [Ways Men in Tech Are Unintentionally Sexist](https://notapattern.net/2014/10/14/ways-men-in-tech-are-unintentionally-sexist/)
@@ -43,7 +43,7 @@ template: list
   According to this way of thinking, labor is not something one does for compensation, but an act of self-love. If profit doesn’t happen to follow, it is because the worker’s passion and determination were insufficient. Its real achievement is making workers believe their labor serves the self and not the marketplace.
 
   Work becomes divided into two opposing classes: that which is lovable (creative, intellectual, socially prestigious) and that which is not (repetitive, unintellectual, undistinguished).
-- [Cixin Liu - The Dark Forest](https://www.amazon.com/dp/B00R13OYU6)
+- [Cixin Liu - The Dark Forest](https://bookshop.org/books/7103383/9780765386694)
 - [Logistics, Counterlogistics, and the Communist Prospect](https://endnotes.org.uk/issues/3/en/jasper-bernes-logistics-counterlogistics-and-the-communist-prospect)
 
   "There is an interesting paradox here... the more transparent and “user-friendly” the computerised processes are, the more opaque the total process they control becomes." — The Hidden Injuries of Class by Richard Sennett
@@ -54,7 +54,7 @@ template: list
   We are denied the ability to seek comfort from colleagues, neighbors, or—heaven forbid—comrades, because neoliberalism has turned them into our competition.
 
   It is no coincidence that as we become more nervous, “wellness” and “self-care” have become mainstream industries.
-- [Tools For Conviviality](http://www.mom.arq.ufmg.br/mom/arq_interface/3a_aula/illich_tools_for_conviviality.pdf)
+- [Tools For Conviviality](https://www.are.na/block/8408935)
 
   The cure for bad management is more management. The cure for specialized research is more costly interdisciplinary research, just as the cure for polluted rivers is more costly nonpolluting detergents... the attempt to overwhelm present problems by the introduction of more science is the ultimate attempt to solve a crisis by escalation
 
@@ -68,3 +68,6 @@ template: list
   In considering a proposal to introduce... design into general education, with the hope that "sound workmapship combined with beauty" might... become a general condition of society, \[William\] Morris observed that the only possible outcome of a design school would be atemporary fad for well-designed objects which, given the time and skill necessary to produce them, would become commodities available only to the rich. Furthermore, increasing the quality of design would further immiserate the design worker, as more labor hours would be required for production than could be fairly paid in competitive markets. Th is is the contradiction of a design education that purports to enrich the student and society: any attemp to increase the quality of design work can only end up impoverishing the design worker, demanding more work for less money, while simultaneously enriching his bosses.
 
   An education organized in capitalism cannot afford \[to be\] an education that is something other than the preparation of fresh minds and docile bodies for future exploitation. This thing that capital cannot aford is the worker's leisure to be unproductive, to be deliberate, and to think and to produce without the requirement that this work be useful to capital down the line.
+- (How to Do Nothing — Jenny Odell)[https://bookshop.org/books/how-to-do-nothing-resisting-the-attention-economy/9781612197494]
+
+  ..."peace" is an endless negotiation among free-acting agents whose wills cannot be engineered. Politics necessarily exist between even two individuals with free will; any attempt to reduce politics to design is also an attempt to reduce people to machines.
