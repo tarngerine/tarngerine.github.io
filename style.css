@@ -25,10 +25,7 @@ h1 {
   font-size: 1.25em;
   margin-top: .83em;
   margin-bottom: 2em;
-}
-
-.tight {
-  letter-spacing: -.06em;
+  letter-spacing: -.03em;
 }
 
 h2 {
@@ -36,6 +33,7 @@ h2 {
   margin-top: 2em;
   margin-bottom: .67em;
   font-weight: normal;
+  letter-spacing: -.01em;
 }
 
 ul, ol {
@@ -55,6 +53,7 @@ li {
   margin-left: -.25em;
   padding-left: .25em;
   line-height: 1.2em;
+  letter-spacing: -.01em;
 }
 
 li strong {
