@@ -17,8 +17,8 @@ template: index
 1. mentored up-and-coming designers at [Upperstudy](https://upperstudy.com)
 
 ## I now
-1. am consulting part-time at various startups for product design, design prototyping, mentoring, or advising — email julius at tarng dot com for inquiries — <strong>available fall 2020!</strong>
-1. am working on [MakeSpace](https://make.space.fun)
+1. am consulting part-time at various startups for product design, design prototyping, or advising — email julius at tarng dot com for inquiries — <strong>available Jan 2021!</strong>
+1. am working with the good folks at [MakeSpace](https://make.space.fun) and [Clay](https://clay.run)
 1. retweet good cool fun stuff on [Twitter](https://twitter.com/tarngerine) (say hi!)
 1. build [tools](https://github.com/tarngerine) and make [video games](https://tarngerine.itch.io)
 1. watch lots of [anime](https://myanimelist.net/profile/tarngerine/)
