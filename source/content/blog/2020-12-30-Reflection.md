@@ -1,4 +1,8 @@
-# Reflection on 2020
+---
+title: Reflection 2020
+template: blog
+published: true
+---
 
 It's pretty wild to think that at the beginning of this year I was in a toxic relationship with my job. I had a big falling out with one of the people I deeply respected in leadership over the holidays, and it was apparent to me that while we agreed on many humanity-level morals (something I screened for when applying for a job post-Facebook), the day-to-day values were wildly misaligned (from how important transparency is, to how product strategy should be formed).
 
