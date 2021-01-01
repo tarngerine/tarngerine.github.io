@@ -7,10 +7,11 @@ published: true
 It's pretty wild to think that at the beginning of this year I was in a toxic relationship with my job. I had a big falling out with one of the people I deeply respected in leadership over the holidays, and it was apparent to me that while we agreed on many humanity-level morals (something I screened for when applying for a job post-Facebook), the day-to-day values were wildly misaligned (from how important transparency is, to how product strategy should be formed).
 
 Throughout that job I had been working with a therapist, and the majority of our work is on positive psychology. Some of the big lessons we focused on were:
-- Accepting things I cannot control
-- Realizing that I have control over how I view things (positively vs negatively), and how to act on that choice
-- Identifying my top personal values to guide any decisions I needed to make in the future
-- More recently, identifying and combatting low self-esteem
+
+* Accepting things I cannot control
+* Realizing that I have control over how I view things (positively vs negatively), and how to act on that choice
+* Identifying my top personal values to guide any decisions I needed to make in the future
+* More recently, identifying and combatting low self-esteem
 
 One of the things we discussed was how important work actually is to me. There's a lot of anti-work discourse, and a lot of folks who ended up in tech realizing and discussing how much they dislike tech. That's not me — I genuinely love technology. I grew up around computers, and this is my "dream" industry. I love everything about software. However, social pressure and low self-esteem led me to be swept along this discourse, hating a thing I really liked. Once I was able to identify this friction, it eased a lot of my turmoil.
 
@@ -20,7 +21,7 @@ I accept that many folks have an unhealthy relationship with work. I am also a v
 
 So for now, it seems I've found a good balance. Work is interesting, I'm making more progress in how I react to my surroundings, and currently tackling self esteem.
 
-Looking ahead to 2021, I've been talking with potential accountants to discuss how to structure my business. A big thing I had to work through while we discussed filing as an S Corp was the delineation between just "selling my time" as a freelancer, vs "making a profit" as a business-owner. This discussion was a difficult one for me to have, not only with the CPAs, but with myself. I have such a gut-level reaction to the idea of making profit and capitalism (again due to much of the anti-capitalism discourse I read), that I was really uncomfortable with this shift in thinking. However, I've since come around, thanks to a convo with my partner, to a more positive way to think about it. If I'm able to subcontract some of the work to an apprentice, and contribute value through guidance and mentorship, the idea of making profit would satisfy the-very-not-black-and-white interpretation of a business (i.e. S corp filing) and still feels in line with my personal ethics (love of learning often comes with love of sharing those learnings).
+Looking ahead to 2021, I've been talking with potential accountants to discuss how to structure my business. A big thing I had to work through while we discussed filing as an S Corp was the delineation between just "selling my time" as a freelancer, vs "making a profit" as a business-owner (specifically, the benefit of an S Corp is paying yourself a salary that's lower than your total intake — how do you argue the difference between a reasonable salary and what you take as a distribution?). This discussion was a difficult one for me to have, not only with the CPAs, but with myself. I have such a gut-level reaction to the idea of making profit and capitalism (again due to much of the anti-capitalism discourse I read), that I was really uncomfortable with this shift in thinking. However, I've since come around, thanks to a convo with my partner, to a more positive way to think about it. If I'm able to subcontract some of the work to an apprentice, and contribute value through guidance and mentorship, the idea of making profit would satisfy the-very-not-black-and-white interpretation of a business (i.e. S corp filing) and still feels in line with my personal ethics (love of learning often comes with love of sharing those learnings).
 
 I also have a potentially exciting partnership with a friend, and I'm super excited to do occasional team ups / collaborations.
 
