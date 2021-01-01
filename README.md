@@ -1,7 +1,7 @@
 Source for [tarng.com](tarng.com)
 
 ### Installation
-1. Use Homebrew to install `python3` and [`fswatch`](https://github.com/emcrisostomo/fswatch).
+1. Use Homebrew to install `python3` and [`fswatch`](https://github.com/emcrisostomo/fswatch) (only necessary for live reload locally).
 1. Use `pip3` to install [`misaka`](https://github.com/FSX/misaka) (Markdown parsing), [`PyYaml`](https://pyyaml.org/wiki/PyYAMLDocumentation) (frontmatter extraction since misaka doesn't support it), and [`Jinja2`](http://jinja.pocoo.org) (templating).
 
 ### Building
