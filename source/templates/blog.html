@@ -1,6 +1,10 @@
 {% extends "base.html" %}
 {% block content %}
+  <a href="/">
+    <div class="logo">Home</div>
+  </a>
   <article>
+    <i>{{page.created}}</i>
     <h1>{{page.title}}</h1>
     {{page.content}}
   </article>

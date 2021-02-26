@@ -41,10 +41,6 @@ article {
   max-width: 30em;
 }
 
-article {
-  margin: 0 auto;
-}
-
 ul, ol {
   color: #6a6874;
   margin-top: 0;
@@ -86,4 +82,17 @@ img.me {
   border-radius: 2.5em;
   height: auto;
   max-width: 100%;
+}
+
+.logo {
+  width: 2em;
+  height: 2em;
+  display: block;
+  background: url('/avvy.png');
+  background-size: cover;
+  border-radius: .8em;
+  text-indent: -9999px;
+  position: absolute;
+  left: 3em;
+  top: .25em;
 }

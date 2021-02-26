@@ -2,10 +2,13 @@ import os
 import misaka
 import re
 import yaml
+import datetime
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 
 def genFromDirectory(root='content', dest='../'):
+  tree = {} # Entire file tree
+
   for f in os.listdir(root):
     p = os.path.join(root, f)
 
@@ -35,7 +38,11 @@ def genFromDirectory(root='content', dest='../'):
       content = protect_cors_url(content)
       md = misaka.Markdown(misaka.HtmlRenderer())
 
+      # actual file contents
       d['content'] = md(content)
+
+      # file created
+      d['created'] = datetime.datetime.fromtimestamp(os.stat(p).st_birthtime).strftime('%A · %B %d · %Y')
 
       if not os.path.exists(dest):
         os.makedirs(dest)
