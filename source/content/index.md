@@ -15,10 +15,10 @@ template: index
 1. built a tool for you to [konmari your Twitter follows](https://www.theverge.com/2019/2/5/18212228/twitter-tokimeki-spark-joy-marie-kondo-konmari)
 1. scaled the design team and shaped new accessibility and "no code" initiatives at [Webflow](https://webflow.com)
 1. mentored up-and-coming designers at [Upperstudy](https://upperstudy.com)
+1. engineered spatial scrapbooking software at [MakeSpace](https://makespace.fun)
 
 ## I now
-1. am consulting part-time at various startups for product design, design prototyping, or advising — email julius at tarng dot com for inquiries — <strong>available May 2021!</strong>
-1. am tech leading at [MakeSpace](https://make.space.fun)
+1. am consulting at various startups for design prototyping and frontend engineering, specializing in spatial and gestural interfaces — email julius at tarng dot com for inquiries — <strong>available June 2021!</strong>
 1. retweet good cool fun stuff on [Twitter](https://twitter.com/tarngerine) (say hi!)
 1. build [tools](https://github.com/tarngerine) and make [video games](https://tarngerine.itch.io)
 1. watch lots of [anime](https://myanimelist.net/profile/tarngerine/)
