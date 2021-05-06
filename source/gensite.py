@@ -42,7 +42,7 @@ def genFromDirectory(root='content', dest='../'):
       d['content'] = md(content)
 
       # file created
-      d['created'] = datetime.datetime.fromtimestamp(os.stat(p).st_birthtime).strftime('%A · %B %d · %Y')
+      d['created'] = datetime.datetime.fromtimestamp(os.path.getmtime).strftime('%A · %B %d · %Y')
 
       if not os.path.exists(dest):
         os.makedirs(dest)
