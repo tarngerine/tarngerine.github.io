@@ -18,9 +18,9 @@ template: index
 1. engineered spatial scrapbooking software at [MakeSpace](https://makespace.fun)
 
 ## I now
-1. am consulting at various startups for design prototyping and frontend engineering, specializing in spatial and gestural interfaces — email julius at tarng dot com for inquiries
-1. retweet good cool fun stuff on [Twitter](https://twitter.com/tarngerine) (say hi!)
-1. build [tools](https://github.com/tarngerine) and make [video games](https://tarngerine.itch.io)
-1. watch lots of [anime](https://myanimelist.net/profile/tarngerine/)
-1. hide out at the library, reading [books](http://goodreads.com/tarngerine)
-1. try to [learn stuff](notes.html)
+1. am consulting at various startups (like [Felt](https://felt.com)) for design prototyping and frontend engineering, specializing in spatial and gestural interfaces — email julius at tarng dot com for 2022 inquiries
+3. retweet good cool fun stuff on [Twitter](https://twitter.com/tarngerine) (say hi!)
+4. build [tools](https://github.com/tarngerine) and make [video games](https://tarngerine.itch.io)
+5. watch lots of [anime](https://myanimelist.net/profile/tarngerine/)
+6. hide out at the library, reading [books](http://goodreads.com/tarngerine)
+7. try to [learn stuff](notes.html)
