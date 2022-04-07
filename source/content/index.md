@@ -18,7 +18,9 @@ template: index
 1. engineered spatial scrapbooking software at [Sprout](https://sprout.place) and creative tools for mapmakers at [Felt](https://felt.com)
 
 ## I now
-1. am consulting with startups for design prototyping and frontend engineering, specializing in spatial and gestural interfaces — email julius at tarng dot com after new years for 2022 inquires~
+
+1. run an independent software imagineering studio called [Toolshop](https://read.cv/teams/toolshop), specializing in helping early stage startups prototype ambitious new software. Email julius at tarng dot com for fall 2022 projects ~
+2. am collaborating with [The Browser Company](https://thebrowser.company) on creative tools for web citizens
 3. retweet good cool fun stuff on [Twitter](https://twitter.com/tarngerine) (say hi!)
 4. build [tools](https://github.com/tarngerine) and make [video games](https://tarngerine.itch.io)
 5. watch lots of [anime](https://myanimelist.net/profile/tarngerine/)
