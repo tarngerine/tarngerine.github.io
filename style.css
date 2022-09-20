@@ -27,7 +27,7 @@ h1 {
   font-size: 1.25em;
   margin-top: 0.83em;
   margin-bottom: -1em;
-  letter-spacing: -0.02em;
+  letter-spacing: -0.01em;
 }
 
 h2 {
@@ -85,8 +85,8 @@ li strong {
 }
 
 .seal {
-  color: #d55;
-  border: 1px solid #d55;
+  color: rgb(255, 0, 0);
+  border: 2px solid rgb(255, 0, 0);
   position: absolute;
   padding: 0.33em 0.2em 0.33em;
   line-height: 1.05em;
@@ -98,18 +98,24 @@ li strong {
   border-radius: 999rem;
 }
 
+:root {
+  --avvy-bg: rgb(255, 220, 140);
+}
+
 img.me {
   width: 6em;
   border-radius: 2.5em;
   height: auto;
   max-width: 100%;
+  background-color: var(--avvy-bg);
 }
 
 .logo {
   width: 2em;
   height: 2em;
   display: block;
-  background: url("/avvy.png");
+  background-color: var(--avvy-bg);
+  background-image: url("/avvy-bald.png");
   background-size: cover;
   border-radius: 0.8em;
   text-indent: -9999px;

@@ -1,7 +1,7 @@
 ---
 title: Julius Tarng — Independent Software Creative
 description: A short Web Page about Julius on the Internet
-image: avvy.png
+image: avvy-bald-grey.png
 url: https://tarng.com
 template: index
 ---
