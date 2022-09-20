@@ -13,7 +13,7 @@ template: index
 1. multiplayer scrapbooking @ [Sprout](https://sprout.place)
 1. highly gestural interactions and animations, image processing pipelines, practical shaders, layout algorithms
 
-_~ Email julius at tarng dot com for 2023 projects ~_
+   _⌁ Email julius at tarng dot com for 2023 projects_
 
 ## Elsewhere I
 
@@ -23,7 +23,7 @@ _~ Email julius at tarng dot com for 2023 projects ~_
 1. shitpost tools like [Tokimeki Unfollow](https://www.theverge.com/2019/2/5/18212228/twitter-tokimeki-spark-joy-marie-kondo-konmari) and [blockify yourself](https://www.theverge.com/2021/12/2/22814267/jack-dorsey-block-square-company-generator-profile)
 1. hide out at the library, reading [books](http://goodreads.com/tarngerine)
 1. try to [learn stuff](notes.html)
-1. 🀇🀏🀐🀘🀙🀡🀀🀁🀂🀃&#x1F004;&#xFE0E;︎🀅🀆🀆
+1. <span style="font-size: 1.5em">🀇🀏🀐🀘🀙🀡🀀🀁🀂🀃&#x1F004;&#xFE0E;︎🀅🀆🀆</span>
 
 ## In the past, I
 
