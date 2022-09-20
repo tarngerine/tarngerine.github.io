@@ -8,9 +8,9 @@ template: index
 
 ## I run a [software imagineering studio](https://read.cv/teams/toolshop), prototyping ambitious new software like
 
-1. collaborative mapmaking @ [Felt](https://felt.com)
-1. developer tooling @ [The Browser Company](https://thebrowser.company)
-1. multiplayer scrapbooking @ [Sprout](https://sprout.place)
+1. collaborative mapmaking <span class="at">@</span> [Felt](https://felt.com)
+1. developer tooling <span class="at">@</span> [The Browser Company](https://thebrowser.company)
+1. multiplayer scrapbooking <span class="at">@</span> [Sprout](https://sprout.place)
 1. highly gestural interactions and animations, image processing pipelines, practical shaders, layout algorithms
 
    _⌁ Email julius at tarng dot com for 2023 projects_

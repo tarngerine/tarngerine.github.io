@@ -15,7 +15,7 @@ body {
 }
 
 a {
-  color: #2e2d33;
+  color: initial;
   text-decoration: underline;
 }
 
@@ -55,7 +55,8 @@ ol {
 }
 
 ol {
-  list-style-type: decimal-leading-zero;
+  list-style-type: none;
+  counter-reset: section;
 }
 
 li {
@@ -64,6 +65,18 @@ li {
   padding-left: 0.25em;
   line-height: 1.33em;
   letter-spacing: -0.01em;
+  position: relative;
+}
+
+li:before {
+  counter-increment: section;
+  content: "0" counter(section);
+  font-size: 0.75em;
+  display: inline-block;
+  position: absolute;
+  right: calc(100% + 1ch);
+  top: -1ch;
+  transform: rotate(10deg) skewX(10deg);
 }
 
 li strong {
@@ -109,4 +122,10 @@ div.chun::after {
   content: "\01F004\00FE0E";
   display: inline-block;
   width: 100px;
+}
+
+span.at {
+  display: inline-block;
+  transform: scale(0.75);
+  opacity: 0.75;
 }
