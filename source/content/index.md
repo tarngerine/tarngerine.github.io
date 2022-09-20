@@ -18,6 +18,7 @@ _~ Email julius at tarng dot com for 2023 projects ~_
 ## Elsewhere I
 
 1. tweet dumb thoughts on [Twitter](https://twitter.com/tarngerine) (say hi!)
+1. teach [computing concepts for designers](https://www.youtube.com/channel/UC7KUkMHVfmnxCibm-oFzLPw/videos)
 1. build [tools](https://github.com/tarngerine) and make [video games](https://tarngerine.itch.io)
 1. shitpost tools like [Tokimeki Unfollow](https://www.theverge.com/2019/2/5/18212228/twitter-tokimeki-spark-joy-marie-kondo-konmari) and [blockify yourself](https://www.theverge.com/2021/12/2/22814267/jack-dorsey-block-square-company-generator-profile)
 1. hide out at the library, reading [books](http://goodreads.com/tarngerine)
