@@ -16,6 +16,8 @@ httpwatcher
 1. `./watch` will watch the `source/` directory for any changes, rebuild (`python3 gensite.py`) and refresh any tabs in Safari (lol sorry not sorry) with local files open.
 2. Run `httpwatcher` directly in bash/zsh/fish.
 
+You may need to run `./restore_mtime.sh` since git clone doesn't persist the creation time of each file, which effects the `gensite.py`'s automatic date adding for certain content.
+
 ### Structure
 
 ```
