@@ -68,7 +68,7 @@ li {
   position: relative;
 }
 
-li:before {
+ol li:before {
   counter-increment: section;
   content: "0" counter(section);
   font-size: 0.75em;
