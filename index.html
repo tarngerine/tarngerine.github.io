@@ -20,6 +20,73 @@
   alt="Autobiographical cartoon animation of Julius banging his hands on a laptop."
   class="me"
 />
+<div
+  style="
+    z-index: 2;
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    backdrop-filter: url(#displacementFilter);
+    -webkit-backdrop-filter: url(#displacementFilter);
+    transform: rotate(180deg);
+  "
+></div>
+<div
+  style="
+    z-index: 3;
+    position: fixed;
+    inset: 0;
+    top: auto;
+    height: 40px;
+    pointer-events: none;
+    background: linear-gradient(rgba(255, 255, 255, 0), white 90%);
+  "
+></div>
+
+<svg
+  viewBox="0 0 2000 2000"
+  xmlns="http://www.w3.org/2000/svg"
+  style="
+    position: fixed;
+    z-index: -1;
+    inset: 0;
+    min-width: 1440px;
+    opacity: 1;
+    filter: saturate(4);
+  "
+>
+  <filter id="turbulenceOnly" x="0" y="0" width="100%" height="100%">
+    <feTurbulence
+      baseFrequency="0.001"
+      numOctaves="1"
+      seed="12024"
+      result="turb"
+    ></feTurbulence>
+    <!-- <feComponentTransfer in="turb">
+      <feFuncR type="gamma" amplitude="1" exponent="6" offset="0"></feFuncR>
+      <feFuncG type="gamma" amplitude="12" exponent="3" offset="0"></feFuncG>
+      <feFuncB type="gamma" amplitude="10" exponent="1" offset="0"></feFuncB>
+    </feComponentTransfer> -->
+  </filter>
+  <rect
+    x="0"
+    y="0"
+    width="100%"
+    height="100%"
+    style="filter: url(#turbulenceOnly)"
+  ></rect>
+</svg>
+<svg viewBox="0 0 0 0" xmlns="http://www.w3.org/2000/svg" style="display: none">
+  <filter id="displacementFilter" x="0%" y="0%" width="100%" height="100%">
+    <feTurbulence
+      type="turbulence"
+      baseFrequency="0.003"
+      numOctaves="1"
+      result="turbulence"
+    />
+    <feDisplacementMap in2="turbulence" in="SourceGraphic" scale="20" />
+  </filter>
+</svg>
 <h1>
   <span style="letter-spacing: -0.07em">J</span>ulius
   <span style="letter-spacing: -0.13em">T</span>a<span

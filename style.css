@@ -48,7 +48,7 @@ article {
 
 ul,
 ol {
-  color: #6a6874;
+  color: rgba(0, 0, 0, 0.7);
   margin-top: 0;
   margin-bottom: 0;
   padding-left: 0;
@@ -99,7 +99,7 @@ li strong {
 }
 
 :root {
-  --avvy-bg: rgb(255, 220, 140);
+  --avvy-bg: rgba(255, 35, 229, 0.2);
 }
 
 img.me {
@@ -107,7 +107,9 @@ img.me {
   border-radius: 2.5em;
   height: auto;
   max-width: 100%;
-  background-color: var(--avvy-bg);
+  /* background-color: var(--avvy-bg); */
+  backdrop-filter: saturate(5);
+  -webkit-backdrop-filter: saturate(5);
 }
 
 .logo {
