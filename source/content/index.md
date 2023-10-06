@@ -28,7 +28,7 @@ template: index
 
 ## In the past, I
 
-1. donated my kidney to a loved one
+1. donated a kidney to a loved one
 1. studied Industrial Design & HCI at Carnegie Mellon
 1. designed objects at Smart Design like [this OXO spatula](https://www.amazon.com/gp/product/B00A2KD8LQ)
 1. explored community building and online discourse systems in [Branch](https://www.theverge.com/2012/10/15/3490670/branch-redesign), [Potluck](https://www.theverge.com/2013/11/21/5129772/potluck-2-messaging-app-for-the-news) and [Rooms](https://newsroom.fb.com/news/2014/10/introducing-rooms/)
