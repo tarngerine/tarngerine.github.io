@@ -8,12 +8,13 @@ template: index
 
 ## I run a [software imagineering studio](https://read.cv/teams/toolshop), prototyping ambitious new software like
 
+1. large language model interfaces <span class="at">@</span> [Anthropic](https://anthropic.com)
+1. web customization tools <span class="at">@</span> [The Browser Company](https://thebrowser.company)
 1. collaborative mapmaking <span class="at">@</span> [Felt](https://felt.com)
-1. developer tooling <span class="at">@</span> [The Browser Company](https://thebrowser.company)
 1. multiplayer scrapbooking <span class="at">@</span> [Sprout](https://sprout.place)
 1. highly gestural interactions and animations, image processing pipelines, practical shaders, layout algorithms
 
-   _⌁ Email julius at tarng dot com for 2023 projects_
+   _⌁ Email julius at tarng dot com for 2024 projects_
 
 ## Elsewhere I
 
@@ -27,9 +28,11 @@ template: index
 
 ## In the past, I
 
+1. donated my kidney to a loved one
 1. studied Industrial Design & HCI at Carnegie Mellon
 1. designed objects at Smart Design like [this OXO spatula](https://www.amazon.com/gp/product/B00A2KD8LQ)
 1. explored community building and online discourse systems in [Branch](https://www.theverge.com/2012/10/15/3490670/branch-redesign), [Potluck](https://www.theverge.com/2013/11/21/5129772/potluck-2-messaging-app-for-the-news) and [Rooms](https://newsroom.fb.com/news/2014/10/introducing-rooms/)
 1. hacked on [virtual reality](https://medium.com/facebook-design/a-month-designing-in-vr-62474aef1f1c) and photographed [a bunch of hands](https://medium.com/facebook-design/photographing-diverse-hands-at-facebook-3229ea76f94)
 1. started and led the [design tooling and infrastructure](https://twitter.com/tarngerine/status/1108038641819893760) team for Facebook, Instagram, Oculus, and WhatsApp
+1. scaled the blog/accessibility-at-webflow) and [no-code initiatives](https://webflow.com/blog/announcing-logic-beta) at Webflow
 1. scaled the design team and shaped new [accessibility](https://webflow.com/blog/accessibility-at-webflow) and [no-code initiatives](https://webflow.com/blog/announcing-logic-beta) at Webflow
