@@ -9,7 +9,7 @@ template: index
 ## I run a [software imagineering studio](https://read.cv/teams/toolshop), prototyping ambitious new software like
 
 1. software development tools <span class="at">@</span> [Linear](https://linear.app)
-1. claude.ai <span class="at">@</span> [Anthropic](https://anthropic.com)
+1. [claude.ai](https://claude.ai) <span class="at">@</span> [Anthropic](https://anthropic.com)
 1. boosts & ai <span class="at">@</span> [The Browser Company](https://thebrowser.company)
 1. collaborative mapmaking <span class="at">@</span> [Felt](https://felt.com)
 1. multiplayer spatial coworking <span class="at">@</span> [Sprout](https://sprout.place)
