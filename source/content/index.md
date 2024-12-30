@@ -15,7 +15,7 @@ template: index
 1. multiplayer spatial coworking <span class="at">@</span> [Sprout](https://sprout.place)
 1. highly gestural interactions and animations, image processing pipelines, practical shaders, layout algorithms
 
-   _⌁ My [software imagineering studio](https://read.cv/teams/toolshop) is currently on hiatus while I am a AI research engineering resident at Anthropic for 2025_
+   ⌁ My [software imagineering studio](https://read.cv/teams/toolshop) is currently on hiatus while I am a AI research engineering resident at Anthropic for 2025
 
 ## Elsewhere I
 
