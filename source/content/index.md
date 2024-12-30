@@ -6,7 +6,7 @@ url: https://tarng.com
 template: index
 ---
 
-## I run a [software imagineering studio](https://read.cv/teams/toolshop), prototyping ambitious new software like
+## I design, prototype, and build ambitious new software like
 
 1. software development tools <span class="at">@</span> [Linear](https://linear.app)
 1. [claude.ai](https://claude.ai) <span class="at">@</span> [Anthropic](https://anthropic.com)
@@ -15,7 +15,7 @@ template: index
 1. multiplayer spatial coworking <span class="at">@</span> [Sprout](https://sprout.place)
 1. highly gestural interactions and animations, image processing pipelines, practical shaders, layout algorithms
 
-   _⌁ Email julius at tarng dot com for project inquiries_
+   _⌁ My [software imagineering studio](https://read.cv/teams/toolshop) is currently on hiatus while I am a AI research engineering resident at Anthropic for 2025_
 
 ## Elsewhere I
 
