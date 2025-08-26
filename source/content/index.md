@@ -8,7 +8,7 @@ template: index
 
 ## My software practice is on hiatus while I am an AI research resident at Anthropic for 2025, rotating on
 
-1. code RL
+1. applied finetuning
 1. interpretability
 
 ## I design, prototype, and build ambitious new software like
