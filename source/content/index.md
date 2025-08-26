@@ -6,7 +6,10 @@ url: https://tarng.com
 template: index
 ---
 
-⌁ My [software imagineering studio](https://read.cv/teams/toolshop) is currently on hiatus while I am an AI research engineering resident at Anthropic for 2025, rotating on finetuning and interpretability
+## My software practice is on hiatus while I am an AI research resident at Anthropic for 2025
+
+1. Code RL
+1. Interpretability
 
 ## I design, prototype, and build ambitious new software like
 
