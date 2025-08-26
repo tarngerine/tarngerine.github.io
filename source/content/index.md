@@ -6,7 +6,7 @@ url: https://tarng.com
 template: index
 ---
 
-## My software practice is on hiatus while I am an AI research resident at Anthropic for 2025
+## My software practice is on hiatus while I am an AI research resident at Anthropic for 2025, rotating on
 
 1. Code RL
 1. Interpretability
