@@ -6,6 +6,8 @@ url: https://tarng.com
 template: index
 ---
 
+⌁ My [software imagineering studio](https://read.cv/teams/toolshop) is currently on hiatus while I am an AI research engineering resident at Anthropic for 2025, rotating on finetuning and interpretability
+
 ## I design, prototype, and build ambitious new software like
 
 1. software development tools <span class="at">@</span> [Linear](https://linear.app)
@@ -14,8 +16,6 @@ template: index
 1. collaborative mapmaking <span class="at">@</span> [Felt](https://felt.com)
 1. multiplayer spatial coworking <span class="at">@</span> [Sprout](https://sprout.place)
 1. highly gestural interactions and animations, image processing pipelines, practical shaders, layout algorithms
-
-   ⌁ My [software imagineering studio](https://read.cv/teams/toolshop) is currently on hiatus while I am an AI research engineering resident at Anthropic for 2025, rotating on finetuning and interpretability
 
 ## Elsewhere I
 
