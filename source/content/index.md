@@ -6,15 +6,10 @@ url: https://tarng.com
 template: index
 ---
 
-## My software practice is on hiatus while I am an AI research resident at Anthropic for 2025, rotating on
-
-1. applied finetuning
-1. [mechanistic interpretability](https://transformer-circuits.pub/2025/october-update/index.html#svg-cross-modal)
-
 ## I design, prototype, and build ambitious new software like
 
+1. models and interpretability <span class="at">@</span> a frontier lab
 1. software development tools <span class="at">@</span> [Linear](https://linear.app)
-1. [claude.ai](https://claude.ai) <span class="at">@</span> [Anthropic](https://anthropic.com)
 1. boosts and AI <span class="at">@</span> [The Browser Company](https://thebrowser.company)
 1. collaborative mapmaking <span class="at">@</span> [Felt](https://felt.com)
 1. multiplayer spatial coworking <span class="at">@</span> [Sprout](https://sprout.place)
