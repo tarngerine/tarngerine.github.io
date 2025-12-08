@@ -8,14 +8,14 @@ template: index
 
 ## I design, prototype, and build ambitious new software like
 
-1. models and interpretability <span class="at">@</span> a frontier lab
+1. models and interpretability <span class="at">@</span> ████████
 1. software development tools <span class="at">@</span> [Linear](https://linear.app)
 1. boosts and AI <span class="at">@</span> [The Browser Company](https://thebrowser.company)
 1. collaborative mapmaking <span class="at">@</span> [Felt](https://felt.com)
 1. multiplayer spatial coworking <span class="at">@</span> [Sprout](https://sprout.place)
 1. highly gestural interactions and animations, image processing pipelines, practical shaders, layout algorithms
 
-## Elsewhere I
+## Elsewhere 
 
 1. tweet dumb thoughts on [twitter](https://twitter.com/tarngerine) (say hi!)
 1. teach [computing concepts for designers](https://www.youtube.com/channel/UC7KUkMHVfmnxCibm-oFzLPw/videos)
